@@ -1,0 +1,14 @@
+{
+    "name": "Anish",
+    "age": 13,
+    "height": 5.4,
+    "dev": true,
+
+    "languages": ["C", "Python", "Cryo", "Hypa"],
+
+    "info": {
+        "country": "India",
+        "role": "frontend-dev",
+        "skills": 4
+    }
+}
